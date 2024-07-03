@@ -1,0 +1,80 @@
+.explore {
+    font-style: italic;
+    cursor: pointer;
+    font-size: small;
+
+}
+
+.explore1 {
+    font-style: italic;
+    cursor: pointer;
+    font-size: small;
+    margin-left: 1px;
+    font-weight: 600;
+    color: rgb(255, 255, 70);
+
+}
+
+.pop1 {
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.pop1:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+.explore3 {
+    font-style: italic;
+    cursor: pointer;
+    font-size: 11px;
+
+}
+
+.explore4 {
+    font-style: italic;
+    cursor: pointer;
+    font-size: 11px;
+
+}
+
+.drawer {
+    font-weight: 600;
+}
+
+.drawercontent {
+    overflow-y: hidden;
+}
+
+.header {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    font-size: 18px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -8px;
+}
+
+.whole {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    height: 40px;
+}
+
+.secnav {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+header {
+    font-size: medium;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.shade {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
